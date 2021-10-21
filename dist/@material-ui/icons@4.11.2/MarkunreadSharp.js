@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,r){function t(e){if(e&&e.__esModule)return e;var r=Object.create(null);return e&&Object.keys(e).forEach((function(t){if("default"!==t){var n=Object.getOwnPropertyDescriptor(e,t);Object.defineProperty(r,t,n.get?n:{enumerable:!0,get:function(){return e[t]}})}})),r.default=e,Object.freeze(r)}var n=t(e);return r.createSvgIcon(n.createElement("path",{d:"M22 4H2v16h20V4zm-2 4l-8 5-8-5V6l8 5 8-5v2z"}),"MarkunreadSharp")}));
+//# sourceMappingURL=MarkunreadSharp.js.map

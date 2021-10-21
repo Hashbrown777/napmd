@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,r){function t(e){if(e&&e.__esModule)return e;var r=Object.create(null);return e&&Object.keys(e).forEach((function(t){if("default"!==t){var n=Object.getOwnPropertyDescriptor(e,t);Object.defineProperty(r,t,n.get?n:{enumerable:!0,get:function(){return e[t]}})}})),r.default=e,Object.freeze(r)}var n=t(e);return r.createSvgIcon(n.createElement("path",{d:"M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"}),"KeyboardArrowRightSharp")}));
+//# sourceMappingURL=KeyboardArrowRightSharp.js.map

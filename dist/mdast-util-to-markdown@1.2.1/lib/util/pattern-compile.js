@@ -1,0 +1,2 @@
+define(["exports"],(function(e){e.patternCompile=function(e){if(!e._compiled){const t=(e.atBreak?"[\\r\\n][\\t ]*":"")+(e.before?"(?:"+e.before+")":"");e._compiled=new RegExp((t?"("+t+")":"")+(/[|\\{}()[\]^$+*?.-]/.test(e.character)?"\\":"")+e.character+(e.after?"(?:"+e.after+")":""),"g")}return e._compiled},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=pattern-compile.js.map

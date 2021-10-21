@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,t){function r(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var n=r(e);return t.createSvgIcon(n.createElement("path",{d:"M5 17h3l2-4V7H4v6h3l-2 4zm10 0h3l2-4V7h-6v6h3l-2 4z"}),"FormatQuoteSharp")}));
+//# sourceMappingURL=FormatQuoteSharp.js.map

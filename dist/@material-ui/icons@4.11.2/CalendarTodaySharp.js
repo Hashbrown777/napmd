@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,t){function r(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var n=r(e);return t.createSvgIcon(n.createElement("path",{d:"M22 3h-3V1h-2v2H7V1H5v2H2v20h20V3zm-2 18H4V8h16v13z"}),"CalendarTodaySharp")}));
+//# sourceMappingURL=CalendarTodaySharp.js.map

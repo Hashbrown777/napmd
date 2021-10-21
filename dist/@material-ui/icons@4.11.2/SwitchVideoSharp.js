@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,t){function r(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var n=r(e);return t.createSvgIcon(n.createElement("path",{d:"M18 9.5V5H2v14h16v-4.5l4 4v-13l-4 4zm-5 6V13H7v2.5L3.5 12 7 8.5V11h6V8.5l3.5 3.5-3.5 3.5z"}),"SwitchVideoSharp")}));
+//# sourceMappingURL=SwitchVideoSharp.js.map

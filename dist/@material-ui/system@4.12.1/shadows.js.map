@@ -1,0 +1,1 @@
+{"version":3,"file":"shadows.js","sources":["../../../node_modules/@material-ui/system/es/shadows.js"],"sourcesContent":["import style from './style';\nconst boxShadow = style({\n  prop: 'boxShadow',\n  themeKey: 'shadows'\n});\nexport default boxShadow;"],"names":["style","prop","themeKey"],"mappings":"+JACkBA,EAAM,CACtBC,KAAM,YACNC,SAAU"}

@@ -1,0 +1,2 @@
+define(["exports"],(function(e){function t(e){return"string"==typeof e.type()}let n=!1;e.default=function(e){return n||(n=!0,console.warn(["Material-UI: the test utils are deprecated, they are no longer present in v5.","The helpers were designed to work with enzyme.","However, the tests of the core components were moved to react-testing-library."].join("\n"))),e.findWhere((e=>e.exists()&&t(e))).first()},e.wrapsIntrinsicElement=t,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=findOutermostIntrinsic.js.map

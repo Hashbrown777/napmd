@@ -1,0 +1,2 @@
+define(["exports","./objectWithoutPropertiesLoose"],(function(e,t){e._objectWithoutProperties=function(e,o){if(null==e)return{};var r,n,i=t._objectWithoutPropertiesLoose(e,o);if(Object.getOwnPropertySymbols){var c=Object.getOwnPropertySymbols(e);for(n=0;n<c.length;n++)r=c[n],o.indexOf(r)>=0||Object.prototype.propertyIsEnumerable.call(e,r)&&(i[r]=e[r])}return i}}));
+//# sourceMappingURL=objectWithoutProperties-65f8ef11.js.map

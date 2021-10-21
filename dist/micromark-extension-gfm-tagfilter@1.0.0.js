@@ -1,0 +1,2 @@
+define(["exports"],(function(e){const t=/<(\/?)(iframe|noembed|noframes|plaintext|script|style|title|textarea|xmp)(?=[\t\n\f\r />])/gi,i=new RegExp("^"+t.source,"i"),l={exit:{htmlFlowData(e){a.call(this,e,t)},htmlTextData(e){a.call(this,e,i)}}};function a(e,t){let i=this.sliceSerialize(e);this.options.allowDangerousHtml&&(i=i.replace(t,"&lt;$1$2")),this.raw(this.encode(i))}e.gfmTagfilterHtml=l,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-extension-gfm-tagfilter@1.0.0.js.map

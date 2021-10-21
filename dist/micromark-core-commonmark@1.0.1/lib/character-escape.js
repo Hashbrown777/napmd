@@ -1,0 +1,2 @@
+define(["exports","micromark-util-character"],(function(e,c){const r={name:"characterEscape",tokenize:function(e,r,a){return function(c){return e.enter("characterEscape"),e.enter("escapeMarker"),e.consume(c),e.exit("escapeMarker"),t};function t(t){return c.asciiPunctuation(t)?(e.enter("characterEscapeValue"),e.consume(t),e.exit("characterEscapeValue"),e.exit("characterEscape"),r):a(t)}}};e.characterEscape=r,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=character-escape.js.map

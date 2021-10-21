@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,r){function t(e){if(e&&e.__esModule)return e;var r=Object.create(null);return e&&Object.keys(e).forEach((function(t){if("default"!==t){var n=Object.getOwnPropertyDescriptor(e,t);Object.defineProperty(r,t,n.get?n:{enumerable:!0,get:function(){return e[t]}})}})),r.default=e,Object.freeze(r)}var n=t(e);return r.createSvgIcon(n.createElement("path",{d:"M19 15l-6 6-1.42-1.42L15.17 16H4V4h2v10h9.17l-3.59-3.58L13 9l6 6z"}),"SubdirectoryArrowRightSharp")}));
+//# sourceMappingURL=SubdirectoryArrowRightSharp.js.map

@@ -1,0 +1,2 @@
+define(["exports"],(function(e){function n(e,n){return e&&"object"==typeof e&&(e.value||(n?e.alt:"")||"children"in e&&r(e.children,n)||Array.isArray(e)&&r(e,n))||""}function r(e,r){for(var t=[],i=-1;++i<e.length;)t[i]=n(e[i],r);return t.join("")}e.toString=function(e,r){var{includeImageAlt:t=!0}=r||{};return n(e,t)},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=mdast-util-to-string@3.1.0.js.map

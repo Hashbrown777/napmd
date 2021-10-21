@@ -1,0 +1,2 @@
+define(["exports","./check-bullet-ordered"],(function(e,r){e.checkBulletOrderedOther=function(e){const t=r.checkBulletOrdered(e),d=e.options.bulletOrderedOther;if(!d)return"."===t?")":".";if("."!==d&&")"!==d)throw new Error("Cannot serialize items with `"+d+"` for `options.bulletOrderedOther`, expected `*`, `+`, or `-`");if(d===t)throw new Error("Expected `bulletOrdered` (`"+t+"`) and `bulletOrderedOther` (`"+d+"`) to be different");return d},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=check-bullet-ordered-other.js.map

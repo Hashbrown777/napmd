@@ -1,0 +1,2 @@
+define(["exports"],(function(e){function l(e,l,n,t){const i=e.length;let p,s=0;if(l=l<0?-l>i?0:i+l:l>i?i:l,n=n>0?n:0,t.length<1e4)p=Array.from(t),p.unshift(l,n),[].splice.apply(e,p);else for(n&&[].splice.apply(e,[l,n]);s<t.length;)p=t.slice(s,s+1e4),p.unshift(l,0),[].splice.apply(e,p),s+=1e4,l+=1e4}e.push=function(e,n){return e.length>0?(l(e,e.length,0,n),e):n},e.splice=l,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-util-chunked@1.0.0.js.map

@@ -1,0 +1,2 @@
+define(["exports","../extends"],(function(e,r){const t="exact-prop: ​";e.default=function(e){return"production"===process.env.NODE_ENV?e:r._extends({},e,{[t]:r=>{const t=Object.keys(r).filter((r=>!e.hasOwnProperty(r)));return t.length>0?new Error(`The following props are not supported: ${t.map((e=>`\`${e}\``)).join(", ")}. Please remove them.`):null}})},e.specialProperty=t,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=exactProp.js.map

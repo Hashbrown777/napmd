@@ -1,0 +1,2 @@
+define(["./createTheme","../../objectWithoutPropertiesLoose","@material-ui/utils","./createBreakpoints","../../extends","./createMixins","./createPalette","../colors/common","../colors/grey","../colors/indigo","../colors/pink","../colors/red","../colors/orange","../colors/blue","../colors/green","./colorManipulator","./createTypography","./shadows","./shape","./createSpacing","@material-ui/system","./transitions","./zIndex"],(function(e,o,r,t,a,s,c,i,n,l,d,u,p,g,m,f,h,y,x,b,k,M,P){return e.default()}));
+//# sourceMappingURL=defaultTheme.js.map

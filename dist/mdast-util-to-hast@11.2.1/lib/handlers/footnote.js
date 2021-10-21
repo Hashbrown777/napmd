@@ -1,0 +1,2 @@
+define(["exports","./footnote-reference","unist-builder"],(function(e,o,t){e.footnote=function(e,t){const n=e.footnoteById,i=e.footnoteOrder;let r=1;for(;r in n;)r++;const f=String(r);return i.push(f),n[f]={type:"footnoteDefinition",identifier:f,children:[{type:"paragraph",children:t.children}],position:t.position},o.footnoteReference(e,{type:"footnoteReference",identifier:f,position:t.position})},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=footnote.js.map

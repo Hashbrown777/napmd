@@ -1,0 +1,2 @@
+define((function(){var e;return function(r,n,o,l){e||(e="function"==typeof Symbol&&Symbol.for&&Symbol.for("react.element")||60103);var f=r&&r.defaultProps,i=arguments.length-3;if(n||0===i||(n={children:void 0}),1===i)n.children=l;else if(i>1){for(var t=new Array(i),u=0;u<i;u++)t[u]=arguments[u+3];n.children=t}if(n&&f)for(var d in f)void 0===n[d]&&(n[d]=f[d]);else n||(n=f||{});return{$$typeof:e,type:r,key:void 0===o?null:""+o,ref:null,props:n,_owner:null}}}));
+//# sourceMappingURL=jsx.js.map

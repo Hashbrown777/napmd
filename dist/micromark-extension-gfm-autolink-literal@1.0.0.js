@@ -1,0 +1,2 @@
+define(["exports","micromark-extension-gfm-autolink-literal/lib/syntax","micromark-extension-gfm-autolink-literal/lib/html","micromark-util-character","micromark-util-sanitize-uri"],(function(i,t,l,e,r){i.gfmAutolinkLiteral=t.gfmAutolinkLiteral,i.gfmAutolinkLiteralHtml=l.gfmAutolinkLiteralHtml,Object.defineProperty(i,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-extension-gfm-autolink-literal@1.0.0.js.map

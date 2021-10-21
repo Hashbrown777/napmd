@@ -1,0 +1,1 @@
+{"version":3,"file":"AwaitValue.js","sources":["../../../../node_modules/@babel/runtime/helpers/esm/AwaitValue.js"],"sourcesContent":["export default function _AwaitValue(value) {\n  this.wrapped = value;\n}"],"names":["value","this","wrapped"],"mappings":"0BAAe,SAAqBA,GAClCC,KAAKC,QAAUF"}

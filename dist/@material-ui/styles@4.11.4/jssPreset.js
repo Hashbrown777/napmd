@@ -1,0 +1,2 @@
+define(["jss-plugin-rule-value-function","jss-plugin-global","jss-plugin-nested","jss-plugin-camel-case","jss-plugin-default-unit","jss-plugin-vendor-prefixer","jss-plugin-props-sort"],(function(u,e,n,l,t,f,s){function i(u){return u&&"object"==typeof u&&"default"in u?u:{default:u}}var d=i(u),a=i(e),p=i(n),r=i(l),o=i(t),g=i(f),j=i(s);return function(){return{plugins:[d.default(),a.default(),p.default(),r.default(),o.default(),"undefined"==typeof window?null:g.default(),j.default()]}}}));
+//# sourceMappingURL=jssPreset.js.map

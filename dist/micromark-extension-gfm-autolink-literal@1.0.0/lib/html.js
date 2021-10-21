@@ -1,0 +1,2 @@
+define(["exports","micromark-util-sanitize-uri"],(function(t,i){const l={exit:{literalAutolinkEmail:function(t){e.call(this,t,"mailto:")},literalAutolinkHttp:function(t){e.call(this,t)},literalAutolinkWww:function(t){e.call(this,t,"http://")}}};function e(t,l){const e=this.sliceSerialize(t);this.tag('<a href="'+i.sanitizeUri((l||"")+e)+'">'),this.raw(this.encode(e)),this.tag("</a>")}t.gfmAutolinkLiteralHtml=l,Object.defineProperty(t,"__esModule",{value:!0})}));
+//# sourceMappingURL=html.js.map

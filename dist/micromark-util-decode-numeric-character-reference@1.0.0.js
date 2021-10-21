@@ -1,0 +1,2 @@
+define(["exports"],(function(e){e.decodeNumericCharacterReference=function(e,r){const n=Number.parseInt(e,r);return n<9||11===n||n>13&&n<32||n>126&&n<160||n>55295&&n<57344||n>64975&&n<65008||65535==(65535&n)||65534==(65535&n)||n>1114111?"�":String.fromCharCode(n)},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-util-decode-numeric-character-reference@1.0.0.js.map

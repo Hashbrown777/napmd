@@ -1,0 +1,1 @@
+{"version":3,"file":"shape.js","sources":["../../../../node_modules/@material-ui/core/es/styles/shape.js"],"sourcesContent":["const shape = {\n  borderRadius: 4\n};\nexport default shape;"],"names":["borderRadius"],"mappings":"yBAAc,CACZA,aAAc"}

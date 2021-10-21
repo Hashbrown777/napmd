@@ -1,0 +1,2 @@
+define(["exports","unist-builder","./traverse"],(function(e,t,l){e.revert=function(e,n){const u=n.referenceType;let r="]";if("collapsed"===u?r+="[]":"full"===u&&(r+="["+(n.label||n.identifier)+"]"),"imageReference"===n.type)return t.u("text","!["+n.alt+r);const i=l.all(e,n),a=i[0];a&&"text"===a.type?a.value="["+a.value:i.unshift(t.u("text","["));const f=i[i.length-1];return f&&"text"===f.type?f.value+=r:i.push(t.u("text",r)),i},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=revert.js.map

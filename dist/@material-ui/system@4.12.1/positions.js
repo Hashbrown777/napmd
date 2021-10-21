@@ -1,0 +1,2 @@
+define(["exports","./style","./compose","./responsivePropType","prop-types","./breakpoints","../extends","./merge","@material-ui/utils"],(function(e,o,p,t,r,i,s,n,d){const f=o({prop:"position"}),l=o({prop:"zIndex",themeKey:"zIndex"}),a=o({prop:"top"}),m=o({prop:"right"}),u=o({prop:"bottom"}),x=o({prop:"left"});var y=p(f,l,a,m,u,x);e.bottom=u,e.default=y,e.left=x,e.position=f,e.right=m,e.top=a,e.zIndex=l,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=positions.js.map

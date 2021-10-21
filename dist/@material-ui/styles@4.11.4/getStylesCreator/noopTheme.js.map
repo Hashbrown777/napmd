@@ -1,0 +1,1 @@
+{"version":3,"file":"noopTheme.js","sources":["../../../../node_modules/@material-ui/styles/es/getStylesCreator/noopTheme.js"],"sourcesContent":["// We use the same empty object to ref count the styles that don't need a theme object.\nconst noopTheme = {};\nexport default noopTheme;"],"names":[],"mappings":"yBACkB"}

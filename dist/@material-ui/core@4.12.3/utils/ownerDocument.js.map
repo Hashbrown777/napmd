@@ -1,0 +1,1 @@
+{"version":3,"file":"ownerDocument.js","sources":["../../../../node_modules/@material-ui/core/es/utils/ownerDocument.js"],"sourcesContent":["export default function ownerDocument(node) {\n  return node && node.ownerDocument || document;\n}"],"names":["node","ownerDocument","document"],"mappings":"0BAAe,SAAuBA,GACpC,OAAOA,GAAQA,EAAKC,eAAiBC"}

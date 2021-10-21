@@ -1,0 +1,2 @@
+define(["exports","./check-bullet"],(function(e,t){e.checkBulletOther=function(e){const r=t.checkBullet(e),o=e.options.bulletOther;if(!o)return"*"===r?"-":"*";if("*"!==o&&"+"!==o&&"-"!==o)throw new Error("Cannot serialize items with `"+o+"` for `options.bulletOther`, expected `*`, `+`, or `-`");if(o===r)throw new Error("Expected `bullet` (`"+r+"`) and `bulletOther` (`"+o+"`) to be different");return o},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=check-bullet-other.js.map

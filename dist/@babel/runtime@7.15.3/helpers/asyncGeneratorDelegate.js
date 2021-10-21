@@ -1,0 +1,2 @@
+define((function(){return function(n,t){var r={},e=!1;function o(r,o){return e=!0,o=new Promise((function(t){t(n[r](o))})),{done:!1,value:t(o)}}return r["undefined"!=typeof Symbol&&Symbol.iterator||"@@iterator"]=function(){return this},r.next=function(n){return e?(e=!1,n):o("next",n)},"function"==typeof n.throw&&(r.throw=function(n){if(e)throw e=!1,n;return o("throw",n)}),"function"==typeof n.return&&(r.return=function(n){return e?(e=!1,n):o("return",n)}),r}}));
+//# sourceMappingURL=asyncGeneratorDelegate.js.map

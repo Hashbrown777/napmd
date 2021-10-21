@@ -1,0 +1,2 @@
+define(["react"],(function(e){function t(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(n){if("default"!==n){var r=Object.getOwnPropertyDescriptor(e,n);Object.defineProperty(t,n,r.get?r:{enumerable:!0,get:function(){return e[n]}})}})),t.default=e,Object.freeze(t)}const n=t(e).createContext({});return"production"!==process.env.NODE_ENV&&(n.displayName="ExpansionPanelContext"),n}));
+//# sourceMappingURL=ExpansionPanelContext.js.map

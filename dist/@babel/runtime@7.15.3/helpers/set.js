@@ -1,0 +1,2 @@
+define(["./superPropBase","./defineProperty","./getPrototypeOf"],(function(e,t,r){function n(r,f,i,o){return n="undefined"!=typeof Reflect&&Reflect.set?Reflect.set:function(r,n,f,i){var o,u=e(r,n);if(u){if((o=Object.getOwnPropertyDescriptor(u,n)).set)return o.set.call(i,f),!0;if(!o.writable)return!1}if(o=Object.getOwnPropertyDescriptor(i,n)){if(!o.writable)return!1;o.value=f,Object.defineProperty(i,n,o)}else t(i,n,f);return!0},n(r,f,i,o)}return function(e,t,r,f,i){if(!n(e,t,r,f||e)&&i)throw new Error("failed to set property");return r}}));
+//# sourceMappingURL=set.js.map

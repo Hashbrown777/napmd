@@ -1,0 +1,2 @@
+define(["exports","unist-util-visit"],(function(n,t){const e={}.hasOwnProperty;function i(n){return String(n||"").toUpperCase()}n.definitions=function(n){const o=Object.create(null);if(!n||!n.type)throw new Error("mdast-util-definitions expected node");return t.visit(n,"definition",(function(n){const t=i(n.identifier);t&&!e.call(o,t)&&(o[t]=n)})),function(n){const t=i(n);return t&&e.call(o,t)?o[t]:null}},Object.defineProperty(n,"__esModule",{value:!0})}));
+//# sourceMappingURL=mdast-util-definitions@5.1.0.js.map

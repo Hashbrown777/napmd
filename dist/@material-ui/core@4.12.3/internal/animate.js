@@ -1,0 +1,2 @@
+define((function(){function n(n){return(1+Math.sin(Math.PI*n-Math.PI/2))/2}return function(t,e,r,i={},a=(()=>{})){const{ease:o=n,duration:u=300}=i;let l=null;const s=e[t];let c=!1;const m=()=>{c=!0},d=n=>{if(c)return void a(new Error("Animation cancelled"));null===l&&(l=n);const i=Math.min(1,(n-l)/u);e[t]=o(i)*(r-s)+s,i>=1?requestAnimationFrame((()=>{a(null)})):requestAnimationFrame(d)};return s===r?(a(new Error("Element already at target position")),m):(requestAnimationFrame(d),m)}}));
+//# sourceMappingURL=animate.js.map

@@ -1,0 +1,2 @@
+define(["exports","micromark-extension-gfm-strikethrough/lib/html","micromark-extension-gfm-strikethrough/lib/syntax","micromark-util-chunked","micromark-util-classify-character","micromark-util-resolve-all"],(function(r,t,e,i,m,o){r.gfmStrikethroughHtml=t.gfmStrikethroughHtml,r.gfmStrikethrough=e.gfmStrikethrough,Object.defineProperty(r,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-extension-gfm-strikethrough@1.0.1.js.map

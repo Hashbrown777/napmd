@@ -1,0 +1,2 @@
+define(["react"],(function(e){function t(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var r=t(e);return function(e){const[t,n]=r.useState(e),u=e||t;return r.useEffect((()=>{null==t&&n(`mui-${Math.round(1e5*Math.random())}`)}),[t]),u}}));
+//# sourceMappingURL=unstable_useId.js.map

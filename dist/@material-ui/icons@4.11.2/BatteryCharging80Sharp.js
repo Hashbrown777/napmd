@@ -1,0 +1,2 @@
+define(["react","@material-ui/core/utils"],(function(e,t){function a(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var r=a(e);return t.createSvgIcon(r.default.createElement(r.default.Fragment,null,r.default.createElement("path",{fillOpacity:".3",d:"M17 4h-3V2h-4v2H7v5h4.93L13 7v2h4V4z"}),r.default.createElement("path",{d:"M13 12.5h2L11 20v-5.5H9L11.93 9H7v13h10V9h-4v3.5z"})),"BatteryCharging80Sharp")}));
+//# sourceMappingURL=BatteryCharging80Sharp.js.map

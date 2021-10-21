@@ -1,0 +1,2 @@
+define(["exports","unist-builder"],(function(e,n){e.footnoteReference=function(e,t){const o=e.footnoteOrder,r=String(t.identifier),f=o.indexOf(r),i=String(-1===f?o.push(r):f+1);return e(t,"a",{href:"#fn"+i,className:["footnote-ref"],id:"fnref"+i,role:"doc-noteref"},[e(t.position,"sup",[n.u("text",i)])])},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=footnote-reference.js.map

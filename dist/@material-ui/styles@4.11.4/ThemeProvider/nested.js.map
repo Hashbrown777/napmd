@@ -1,0 +1,1 @@
+{"version":3,"file":"nested.js","sources":["../../../../node_modules/@material-ui/styles/es/ThemeProvider/nested.js"],"sourcesContent":["const hasSymbol = typeof Symbol === 'function' && Symbol.for;\nexport default hasSymbol ? Symbol.for('mui.nested') : '__THEME_NESTED__';"],"names":["Symbol","for"],"mappings":"yBAAoC,mBAAXA,QAAyBA,OAAOC,IAC9BD,OAAOC,IAAI,cAAgB"}

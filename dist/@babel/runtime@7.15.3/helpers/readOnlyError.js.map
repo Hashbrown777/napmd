@@ -1,0 +1,1 @@
+{"version":3,"file":"readOnlyError.js","sources":["../../../../node_modules/@babel/runtime/helpers/esm/readOnlyError.js"],"sourcesContent":["export default function _readOnlyError(name) {\n  throw new TypeError(\"\\\"\" + name + \"\\\" is read-only\");\n}"],"names":["name","TypeError"],"mappings":"0BAAe,SAAwBA,GACrC,MAAM,IAAIC,UAAU,IAAOD,EAAO"}

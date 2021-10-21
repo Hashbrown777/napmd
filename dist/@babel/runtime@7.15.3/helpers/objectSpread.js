@@ -1,0 +1,2 @@
+define(["./defineProperty"],(function(e){return function(t){for(var r=1;r<arguments.length;r++){var n=null!=arguments[r]?Object(arguments[r]):{},o=Object.keys(n);"function"==typeof Object.getOwnPropertySymbols&&o.push.apply(o,Object.getOwnPropertySymbols(n).filter((function(e){return Object.getOwnPropertyDescriptor(n,e).enumerable}))),o.forEach((function(r){e(t,r,n[r])}))}return t}}));
+//# sourceMappingURL=objectSpread.js.map

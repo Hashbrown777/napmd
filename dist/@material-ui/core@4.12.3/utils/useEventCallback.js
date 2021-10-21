@@ -1,0 +1,2 @@
+define(["react"],(function(e){function t(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var r=t(e);const n="undefined"!=typeof window?r.useLayoutEffect:r.useEffect;return function(e){const t=r.useRef(e);return n((()=>{t.current=e})),r.useCallback(((...e)=>(0,t.current)(...e)),[])}}));
+//# sourceMappingURL=useEventCallback.js.map

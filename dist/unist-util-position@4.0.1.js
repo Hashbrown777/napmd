@@ -1,0 +1,2 @@
+define(["exports"],(function(n){var t=o("start"),e=o("end");function o(n){return function(t){var e=t&&t.position&&t.position[n]||{};return{line:e.line||null,column:e.column||null,offset:e.offset>-1?e.offset:null}}}n.pointEnd=e,n.pointStart=t,n.position=function(n){return{start:t(n),end:e(n)}},Object.defineProperty(n,"__esModule",{value:!0})}));
+//# sourceMappingURL=unist-util-position@4.0.1.js.map

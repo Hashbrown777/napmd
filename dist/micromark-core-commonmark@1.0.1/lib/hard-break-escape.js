@@ -1,0 +1,2 @@
+define(["exports","micromark-util-character"],(function(e,r){const n={name:"hardBreakEscape",tokenize:function(e,n,a){return function(r){return e.enter("hardBreakEscape"),e.enter("escapeMarker"),e.consume(r),t};function t(t){return r.markdownLineEnding(t)?(e.exit("escapeMarker"),e.exit("hardBreakEscape"),n(t)):a(t)}}};e.hardBreakEscape=n,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=hard-break-escape.js.map

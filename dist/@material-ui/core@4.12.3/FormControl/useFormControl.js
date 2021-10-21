@@ -1,0 +1,2 @@
+define(["react","./FormControlContext"],(function(e,t){function r(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(r){if("default"!==r){var n=Object.getOwnPropertyDescriptor(e,r);Object.defineProperty(t,r,n.get?n:{enumerable:!0,get:function(){return e[r]}})}})),t.default=e,Object.freeze(t)}var n=r(e);return function(){return n.useContext(t.default)}}));
+//# sourceMappingURL=useFormControl.js.map

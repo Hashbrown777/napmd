@@ -1,0 +1,2 @@
+define(["exports","./style","./compose","./responsivePropType","prop-types","./breakpoints","../extends","./merge","@material-ui/utils"],(function(e,o,r,t,p,s,l,c,a){const n=o({prop:"color",themeKey:"palette"}),i=o({prop:"bgcolor",cssProperty:"backgroundColor",themeKey:"palette"}),u=r(n,i);e.bgcolor=i,e.color=n,e.default=u,Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=palette.js.map

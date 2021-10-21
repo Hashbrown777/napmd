@@ -1,0 +1,2 @@
+define(["exports","../wrap","../traverse","unist-builder"],(function(e,t,r,s){e.list=function(e,s){const a={},i=s.ordered?"ol":"ul",l=r.all(e,s);let n=-1;for("number"==typeof s.start&&1!==s.start&&(a.start=s.start);++n<l.length;){const e=l[n];if("element"===e.type&&"li"===e.tagName&&e.properties&&Array.isArray(e.properties.className)&&e.properties.className.includes("task-list-item")){a.className=["contains-task-list"];break}}return e(s,i,a,t.wrap(l,!0))},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=list.js.map

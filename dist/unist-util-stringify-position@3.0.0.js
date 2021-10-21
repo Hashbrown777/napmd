@@ -1,0 +1,2 @@
+define(["exports"],(function(n){var t={}.hasOwnProperty;function e(n){return l(n&&n.line)+":"+l(n&&n.column)}function o(n){return e(n&&n.start)+"-"+e(n&&n.end)}function l(n){return n&&"number"==typeof n?n:1}n.stringifyPosition=function(n){return n&&"object"==typeof n?t.call(n,"position")||t.call(n,"type")?o(n.position):t.call(n,"start")||t.call(n,"end")?o(n):t.call(n,"line")||t.call(n,"column")?e(n):"":""},Object.defineProperty(n,"__esModule",{value:!0})}));
+//# sourceMappingURL=unist-util-stringify-position@3.0.0.js.map

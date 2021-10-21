@@ -1,0 +1,2 @@
+define(["exports","micromark-factory-space","micromark-util-character"],(function(e,n,r){e.factoryWhitespace=function(e,i){let t;return function c(a){if(r.markdownLineEnding(a))return e.enter("lineEnding"),e.consume(a),e.exit("lineEnding"),t=!0,c;if(r.markdownSpace(a))return n.factorySpace(e,c,t?"linePrefix":"lineSuffix")(a);return i(a)}},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-factory-whitespace@1.0.0.js.map

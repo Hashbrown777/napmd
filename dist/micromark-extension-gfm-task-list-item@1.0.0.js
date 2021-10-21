@@ -1,0 +1,2 @@
+define(["exports","micromark-extension-gfm-task-list-item/lib/html","micromark-extension-gfm-task-list-item/lib/syntax","micromark-factory-space","micromark-util-character"],(function(t,m,e,i,s){t.gfmTaskListItemHtml=m.gfmTaskListItemHtml,t.gfmTaskListItem=e.gfmTaskListItem,Object.defineProperty(t,"__esModule",{value:!0})}));
+//# sourceMappingURL=micromark-extension-gfm-task-list-item@1.0.0.js.map

@@ -1,0 +1,2 @@
+define(["exports","mdast-util-to-string"],(function(t,e){t.formatLinkAsAutolink=function(t,n){const r=e.toString(t);return Boolean(!n.options.resourceLink&&t.url&&!t.title&&t.children&&1===t.children.length&&"text"===t.children[0].type&&(r===t.url||"mailto:"+r===t.url)&&/^[a-z][a-z+.-]+:/i.test(t.url)&&!/[\0- <>\u007F]/.test(t.url))},Object.defineProperty(t,"__esModule",{value:!0})}));
+//# sourceMappingURL=format-link-as-autolink.js.map

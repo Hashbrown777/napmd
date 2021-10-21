@@ -1,0 +1,1 @@
+{"version":3,"file":"writeOnlyError.js","sources":["../../../../node_modules/@babel/runtime/helpers/esm/writeOnlyError.js"],"sourcesContent":["export default function _writeOnlyError(name) {\n  throw new TypeError(\"\\\"\" + name + \"\\\" is write-only\");\n}"],"names":["name","TypeError"],"mappings":"0BAAe,SAAyBA,GACtC,MAAM,IAAIC,UAAU,IAAOD,EAAO"}

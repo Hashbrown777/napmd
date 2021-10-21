@@ -1,0 +1,2 @@
+define(["exports","unist-util-visit","mdast-util-to-string"],(function(t,e,i){t.formatHeadingAsSetext=function(t,n){let r=!1;return e.visit(t,(t=>{if("value"in t&&/\r?\n|\r/.test(t.value)||"break"===t.type)return r=!0,e.EXIT})),Boolean((!t.depth||t.depth<3)&&i.toString(t)&&(n.options.setext||r))},Object.defineProperty(t,"__esModule",{value:!0})}));
+//# sourceMappingURL=format-heading-as-setext.js.map

@@ -1,0 +1,2 @@
+define((function(){return function(e,r){for(var n in r){(b=r[n]).configurable=b.enumerable=!0,"value"in b&&(b.writable=!0),Object.defineProperty(e,n,b)}if(Object.getOwnPropertySymbols)for(var t=Object.getOwnPropertySymbols(r),i=0;i<t.length;i++){var b,o=t[i];(b=r[o]).configurable=b.enumerable=!0,"value"in b&&(b.writable=!0),Object.defineProperty(e,o,b)}return e}}));
+//# sourceMappingURL=defineEnumerableProperties.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"common.js","sources":["../../../../node_modules/@material-ui/core/es/colors/common.js"],"sourcesContent":["const common = {\n  black: '#000',\n  white: '#fff'\n};\nexport default common;"],"names":["black","white"],"mappings":"yBAAe,CACbA,MAAO,OACPC,MAAO"}

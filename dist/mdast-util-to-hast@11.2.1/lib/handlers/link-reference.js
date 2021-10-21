@@ -1,0 +1,2 @@
+define(["exports","mdurl/encode.js","../revert","../traverse","unist-builder"],(function(e,t,n,r,i){function l(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var u=l(t);e.linkReference=function(e,t){const i=e.definition(t.identifier);if(!i)return n.revert(e,t);const l={href:u.default(i.url||"")};return null!==i.title&&void 0!==i.title&&(l.title=i.title),e(t,"a",l,r.all(e,t))},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=link-reference.js.map

@@ -1,0 +1,2 @@
+define(["exports","mdast-util-gfm-autolink-literal","mdast-util-gfm-strikethrough","mdast-util-gfm-table","mdast-util-gfm-task-list-item"],(function(t,o,r,m,a){const e=[o.gfmAutolinkLiteralFromMarkdown,r.gfmStrikethroughFromMarkdown,m.gfmTableFromMarkdown,a.gfmTaskListItemFromMarkdown];t.gfmFromMarkdown=e,t.gfmToMarkdown=function(t){return{extensions:[o.gfmAutolinkLiteralToMarkdown,r.gfmStrikethroughToMarkdown,m.gfmTableToMarkdown(t),a.gfmTaskListItemToMarkdown]}},Object.defineProperty(t,"__esModule",{value:!0})}));
+//# sourceMappingURL=mdast-util-gfm@1.0.0.js.map

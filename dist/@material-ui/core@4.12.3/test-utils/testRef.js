@@ -1,0 +1,2 @@
+define(["react","chai"],(function(e,t){function n(e){if(e&&e.__esModule)return e;var t=Object.create(null);return e&&Object.keys(e).forEach((function(n){if("default"!==n){var r=Object.getOwnPropertyDescriptor(e,n);Object.defineProperty(t,n,r.get?r:{enumerable:!0,get:function(){return e[n]}})}})),t.default=e,Object.freeze(t)}var r=n(e);function c(e){t.expect(typeof e.nodeName).to.equal("string")}return function(e,t,n=c){const u=r.createRef(),f=t(r.createElement(r.Fragment,null,r.cloneElement(e,{ref:u})));n(u.current,f)}}));
+//# sourceMappingURL=testRef.js.map

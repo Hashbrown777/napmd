@@ -1,0 +1,398 @@
+[
+	{
+		"name": "@babel/runtime",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@babel/runtime@7.15.3",
+		"timestamp": "@7.15.3",
+		"main": ""
+	},
+	{
+		"name": "@date-io/dayjs",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@date-io/dayjs@1.3.13",
+		"timestamp": "@1.3.13",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/core",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/core@4.12.3",
+		"timestamp": "@4.12.3",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/extends",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/extends@8af44f29",
+		"timestamp": "@8af44f29",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/icons",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/icons@4.11.2",
+		"timestamp": "@4.11.2",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/inherits",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/inherits@a45ab2f6",
+		"timestamp": "@a45ab2f6",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/lab",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/lab@4.0.0-alpha.60",
+		"timestamp": "@4.0.0-alpha.60",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/objectWithoutProperties",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/objectWithoutProperties@65f8ef11",
+		"timestamp": "@65f8ef11",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/objectWithoutPropertiesLoose",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/objectWithoutPropertiesLoose@9d4d055c",
+		"timestamp": "@9d4d055c",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/Picker-ccd9ba90",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/Picker-ccd9ba90@ad85e8cb",
+		"timestamp": "@ad85e8cb",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/pickers",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/pickers@3.3.10",
+		"timestamp": "@3.3.10",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/styles",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/styles@4.11.4",
+		"timestamp": "@4.11.4",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/system",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/system@4.12.1",
+		"timestamp": "@4.12.1",
+		"main": ""
+	},
+	{
+		"name": "@material-ui/utils",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@material-ui/utils@4.11.2",
+		"timestamp": "@4.11.2",
+		"main": ""
+	},
+	{
+		"name": "@tinymce/tinymce-react",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/@tinymce/tinymce-react@3.12.6",
+		"timestamp": "@3.12.6",
+		"main": ""
+	},
+	{
+		"name": "ccount",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/ccount@2.0.0",
+		"timestamp": "@2.0.0",
+		"main": ""
+	},
+	{
+		"name": "escape-string-regexp",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/escape-string-regexp@1.0.5",
+		"timestamp": "@1.0.5",
+		"main": ""
+	},
+	{
+		"name": "fast-memoize",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/fast-memoize@2.5.2",
+		"timestamp": "@2.5.2",
+		"main": ""
+	},
+	{
+		"name": "markdown-table",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/markdown-table@3.0.1",
+		"timestamp": "@3.0.1",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-definitions",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-definitions@5.1.0",
+		"timestamp": "@5.1.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-find-and-replace",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-find-and-replace@2.1.0",
+		"timestamp": "@2.1.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-from-markdown",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-from-markdown@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-gfm-autolink-literal",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-gfm-autolink-literal@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-gfm-strikethrough",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-gfm-strikethrough@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-gfm-table",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-gfm-table@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-gfm-task-list-item",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-gfm-task-list-item@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-gfm",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-gfm@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-to-hast",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-to-hast@11.2.1",
+		"timestamp": "@11.2.1",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-to-markdown",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-to-markdown@1.2.1",
+		"timestamp": "@1.2.1",
+		"main": ""
+	},
+	{
+		"name": "mdast-util-to-string",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/mdast-util-to-string@3.1.0",
+		"timestamp": "@3.1.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-core-commonmark",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-core-commonmark@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm-autolink-literal",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm-autolink-literal@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm-strikethrough",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm-strikethrough@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm-table",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm-table@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm-tagfilter",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm-tagfilter@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm-task-list-item",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm-task-list-item@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-extension-gfm",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-extension-gfm@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-factory-destination",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-factory-destination@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-factory-label",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-factory-label@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-factory-space",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-factory-space@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-factory-title",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-factory-title@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-factory-whitespace",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-factory-whitespace@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-character",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-character@1.1.0",
+		"timestamp": "@1.1.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-chunked",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-chunked@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-classify-character",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-classify-character@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-combine-extensions",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-combine-extensions@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-decode-numeric-character-reference",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-decode-numeric-character-reference@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-decode-string",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-decode-string@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-encode",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-encode@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-html-tag-name",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-html-tag-name@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-normalize-identifier",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-normalize-identifier@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-resolve-all",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-resolve-all@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-sanitize-uri",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-sanitize-uri@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-subtokenize",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-subtokenize@1.0.0",
+		"timestamp": "@1.0.0",
+		"main": ""
+	},
+	{
+		"name": "micromark-util-types",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark-util-types@1.0.1",
+		"timestamp": "@1.0.1",
+		"main": ""
+	},
+	{
+		"name": "micromark",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/micromark@3.0.5",
+		"timestamp": "@3.0.5",
+		"main": ""
+	},
+	{
+		"name": "re-resizable",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/re-resizable@6.9.0",
+		"timestamp": "@6.9.0",
+		"main": ""
+	},
+	{
+		"name": "react-animate-height",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/react-animate-height@2.0.23",
+		"timestamp": "@2.0.23",
+		"main": ""
+	},
+	{
+		"name": "remark-gfm",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/remark-gfm@2.0.0",
+		"timestamp": "@2.0.0",
+		"main": ""
+	},
+	{
+		"name": "unist-builder",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-builder@3.0.0",
+		"timestamp": "@3.0.0",
+		"main": ""
+	},
+	{
+		"name": "unist-util-generated",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-generated@2.0.0",
+		"timestamp": "@2.0.0",
+		"main": ""
+	},
+	{
+		"name": "unist-util-is",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-is@5.1.1",
+		"timestamp": "@5.1.1",
+		"main": ""
+	},
+	{
+		"name": "unist-util-position",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-position@4.0.1",
+		"timestamp": "@4.0.1",
+		"main": ""
+	},
+	{
+		"name": "unist-util-stringify-position",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-stringify-position@3.0.0",
+		"timestamp": "@3.0.0",
+		"main": ""
+	},
+	{
+		"name": "unist-util-visit-parents",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-visit-parents@4.1.1",
+		"timestamp": "@4.1.1",
+		"main": ""
+	},
+	{
+		"name": "unist-util-visit",
+		"location": "https://cdn.jsdelivr.net/gh/Hashbrown777/napmd@gazette.legislation.nsw.gov.au/dist/unist-util-visit@4.0.0",
+		"timestamp": "@4.0.0",
+		"main": ""
+	}
+]
